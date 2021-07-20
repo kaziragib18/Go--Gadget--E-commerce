@@ -13,3 +13,14 @@
     border: none;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+.watch-design{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}
+.speaker-design{
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 55px;
+}
